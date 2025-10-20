@@ -1,3 +1,3 @@
-# Folk Community of Practice Workshop
+# Online NTNU AI Workshop
 
 Velkommen til workshop! 👋
